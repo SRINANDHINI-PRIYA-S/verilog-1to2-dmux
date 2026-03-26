@@ -69,7 +69,7 @@ This means the input `D` is sent to the output selected by `S`.
 ## Simulation Output
 
 The screenshot  shows the simulation result for this project and confirms that the design is working as expected.
-
+![Simulation Output](demux2to1.png)
 
 ---
 
